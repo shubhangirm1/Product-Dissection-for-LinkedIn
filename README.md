@@ -1,1 +1,1 @@
-# Product-Dissection-For-LinkedIn
+# Product-Dissection-for-LinkedIn
