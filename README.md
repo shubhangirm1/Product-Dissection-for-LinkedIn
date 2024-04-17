@@ -1,28 +1,28 @@
 # Product-Dissection-for-LinkedIn
 
-Case Study: Real-World Problems and LinkedIn's Innovative Solutions
+# Case Study: Real-World Problems and LinkedIn's Innovative Solutions
 
 LinkedIn, a leading social media platform, has not only revolutionized the way we share and consume content but has also addressed significant real-world challenges through its innovative features. By identifying user needs and leveraging technology, IinkedIn has positioned itself as a solution-driven platform that fosters connections, encourages self-expression, and enhances digital interactions.
 
-Problem 1: Increasing User Engagement
+# Problem 1: Increasing User Engagement
 
 Real-World Challenge : LinkedIn noticed a decline in user engagement, with many users passively browsing their feed without actively participating in discussions or posting updates.
 
 LinkedIn’s Solution : LinkedIn introduced the "Creator Mode," which allows users to highlight their expertise by adding tags to their profiles and content. This encourages users to share more content, engage in conversations, and establish themselves as thought leaders in their industries.
 
-Problem 2: Inaccurate Job Recommendations
+# Problem 2: Inaccurate Job Recommendations
 
 Real-World Challenges : Users were often receiving job recommendations that were not relevant to their skills or career goals, leading to frustration.
 
 LinkedIn’s Solution : LinkedIn leveraged machine learning and AI algorithms to improve job recommendation accuracy. They incorporated user feedback and behavior data to fine-tune the recommendations, resulting in more tailored job suggestions for users.
 
-Problem 3: Encouraging Diverse Hiring
+# Problem 3: Encouraging Diverse Hiring
 
 Real-World Challenge : Many organizations struggled to diversify their workforce, and LinkedIn wanted to play a role in addressing this issue.
 
 LinkedIn’s Solution : LinkedIn introduced a feature that allows companies to anonymize applicant profiles during the initial stages of the hiring process. This helps reduce bias in hiring decisions by focusing on skills and qualifications rather than personal information, leading to more inclusive hiring practices.
 
-Problem 4: Spam and Inauthentic Profiles
+# Problem 4: Spam and Inauthentic Profiles
 
 Real-World Challenges : LinkedIn faced an increasing number of fake profiles and spam content, which undermined the platform's credibility.
 
